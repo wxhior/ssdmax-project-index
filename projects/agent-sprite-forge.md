@@ -1,5 +1,5 @@
 # agent-sprite-forge
 
 - 本地目录：`/mnt/ssdmax/agent-sprite-forge`
-- GitHub：[0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`agent-sprite-forge/README.md`
+- 本仓库副本：[projects/agent-sprite-forge/README.md](./agent-sprite-forge/README.md)

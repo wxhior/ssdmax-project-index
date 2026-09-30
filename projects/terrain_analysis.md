@@ -1,5 +1,5 @@
 # terrain_analysis
 
 - 本地目录：`/mnt/ssdmax/terrain_analysis`
-- GitHub：[scorpio-robot/terrain_analysis](https://github.com/scorpio-robot/terrain_analysis)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`terrain_analysis/README.md`
+- 本仓库副本：[projects/terrain_analysis/README.md](./terrain_analysis/README.md)

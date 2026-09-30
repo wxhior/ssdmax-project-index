@@ -1,5 +1,5 @@
 # maigret
 
 - 本地目录：`/mnt/ssdmax/maigret`
-- GitHub：[soxoj/maigret](https://github.com/soxoj/maigret)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`maigret/README.md`
+- 本仓库副本：[projects/maigret/README.md](./maigret/README.md)

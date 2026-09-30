@@ -1,5 +1,5 @@
 # unifolm-world-model-action
 
 - 本地目录：`/mnt/ssdmax/unifolm-world-model-action`
-- GitHub：[unitreerobotics/unifolm-world-model-action](https://github.com/unitreerobotics/unifolm-world-model-action)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`unifolm-world-model-action/README.md`
+- 本仓库副本：[projects/unifolm-world-model-action/README.md](./unifolm-world-model-action/README.md)

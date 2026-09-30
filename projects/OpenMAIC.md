@@ -1,5 +1,5 @@
 # OpenMAIC
 
 - 本地目录：`/mnt/ssdmax/OpenMAIC`
-- GitHub：[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`OpenMAIC/README.md`
+- 本仓库副本：[projects/OpenMAIC/README.md](./OpenMAIC/README.md)

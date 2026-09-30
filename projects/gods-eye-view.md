@@ -1,5 +1,5 @@
 # gods-eye-view
 
 - 本地目录：`/mnt/ssdmax/gods-eye-view`
-- GitHub：[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`gods-eye-view/README.md`
+- 本仓库副本：[projects/gods-eye-view/README.md](./gods-eye-view/README.md)

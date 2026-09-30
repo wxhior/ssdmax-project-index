@@ -1,5 +1,5 @@
 # FoundationPose
 
 - 本地目录：`/mnt/ssdmax/FoundationPose`
-- GitHub：[NVlabs/FoundationPose](https://github.com/NVlabs/FoundationPose)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`FoundationPose/readme.md`
+- 本仓库副本：[projects/FoundationPose/README.md](./FoundationPose/README.md)

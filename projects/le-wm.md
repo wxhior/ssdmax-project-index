@@ -1,5 +1,5 @@
 # le-wm
 
 - 本地目录：`/mnt/ssdmax/le-wm`
-- GitHub：[lucas-maes/le-wm](https://github.com/lucas-maes/le-wm)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`le-wm/README.md`
+- 本仓库副本：[projects/le-wm/README.md](./le-wm/README.md)

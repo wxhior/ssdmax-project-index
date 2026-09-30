@@ -1,5 +1,5 @@
 # book-to-skill
 
 - 本地目录：`/mnt/ssdmax/book-to-skill`
-- GitHub：[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`book-to-skill/README.md`
+- 本仓库副本：[projects/book-to-skill/README.md](./book-to-skill/README.md)

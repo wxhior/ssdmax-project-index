@@ -1,5 +1,5 @@
 # learning-beyond-gradients
 
 - 本地目录：`/mnt/ssdmax/learning-beyond-gradients`
-- GitHub：[Trinkle23897/learning-beyond-gradients](https://github.com/Trinkle23897/learning-beyond-gradients)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`learning-beyond-gradients/README.md`
+- 本仓库副本：[projects/learning-beyond-gradients/README.md](./learning-beyond-gradients/README.md)

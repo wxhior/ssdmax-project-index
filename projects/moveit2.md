@@ -1,5 +1,5 @@
 # moveit2
 
 - 本地目录：`/mnt/ssdmax/moveit2`
-- GitHub：[moveit/moveit2](https://github.com/moveit/moveit2)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`moveit2/README.md`
+- 本仓库副本：[projects/moveit2/README.md](./moveit2/README.md)

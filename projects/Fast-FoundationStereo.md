@@ -1,5 +1,5 @@
 # Fast-FoundationStereo
 
 - 本地目录：`/mnt/ssdmax/Fast-FoundationStereo`
-- GitHub：[NVlabs/Fast-FoundationStereo](https://github.com/NVlabs/Fast-FoundationStereo)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`Fast-FoundationStereo/readme.md`
+- 本仓库副本：[projects/Fast-FoundationStereo/README.md](./Fast-FoundationStereo/README.md)

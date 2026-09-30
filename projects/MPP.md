@@ -1,5 +1,5 @@
 # MPP
 
 - 本地目录：`/mnt/ssdmax/MPP`
-- GitHub：_无 remote_
-- 类型：本地目录（未推送环境与缓存）
+- 源 README：`MPP/README.md`
+- 本仓库副本：[projects/MPP/README.md](./MPP/README.md)

@@ -1,5 +1,5 @@
 # openvla_train
 
 - 本地目录：`/mnt/ssdmax/openvla_train`
-- GitHub：_无 remote_
-- 类型：本地目录（未推送环境与缓存）
+- 源 README：`openvla_train/README.md`
+- 本仓库副本：[projects/openvla_train/README.md](./openvla_train/README.md)

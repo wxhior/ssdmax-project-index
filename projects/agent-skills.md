@@ -1,5 +1,5 @@
 # agent-skills
 
 - 本地目录：`/mnt/ssdmax/agent-skills`
-- GitHub：[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`agent-skills/README.md`
+- 本仓库副本：[projects/agent-skills/README.md](./agent-skills/README.md)

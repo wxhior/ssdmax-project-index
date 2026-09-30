@@ -1,5 +1,5 @@
 # point-to-pose
 
 - 本地目录：`/mnt/ssdmax/point-to-pose`
-- GitHub：[tzuyuan/point-to-pose](https://github.com/tzuyuan/point-to-pose)
-- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
+- 源 README：`point-to-pose/README.md`
+- 本仓库副本：[projects/point-to-pose/README.md](./point-to-pose/README.md)
