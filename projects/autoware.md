@@ -1,0 +1,5 @@
+# autoware
+
+- 本地目录：`/mnt/ssdmax/autoware`
+- GitHub：[autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
+- 类型：已关联远程仓库（仅作链接索引，不镜像源码）
