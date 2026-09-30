@@ -8,7 +8,7 @@
 >
 > 完整磁盘索引：[`PROJECTS.md`](./PROJECTS.md) · README 同步清单：[`README_SYNC.md`](./README_SYNC.md)
 
-共收录 **73** 个相关项目。
+共收录 **67** 个相关项目。
 
 ## 目录
 
@@ -18,7 +18,6 @@
 - 运动规划 / 控制 / 教材（7）
 - 感知 / SLAM / 三维重建（12）
 - 移动机器人 / 真机工程（17）
-- 学习基础与周边工具（6）
 
 ## VLA / 端到端策略
 
@@ -485,46 +484,3 @@
 - 本地路径：`/mnt/ssdmax/MPP_YOLO`
 - 简介：（本地无 README，待补充）
 
-## 学习基础与周边工具
-
-### `reinforcement-learning`
-
-- GitHub：[dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
-- 本地路径：`/mnt/ssdmax/reinforcement-learning`
-- README 副本：[`projects/reinforcement-learning/README.md`](./projects/reinforcement-learning/README.md)
-- 简介：This repository provides code, exercises and solutions for popular Reinforcement Learning algorithms. These are meant to serve as a learning tool to complement the theoretical materials from
-
-### `learning-beyond-gradients`
-
-- GitHub：[Trinkle23897/learning-beyond-gradients](https://github.com/Trinkle23897/learning-beyond-gradients)
-- 本地路径：`/mnt/ssdmax/learning-beyond-gradients`
-- README 副本：[`projects/learning-beyond-gradients/README.md`](./projects/learning-beyond-gradients/README.md)
-- 简介：This repository contains the public artifacts for:
-
-### `img2threejs`
-
-- GitHub：[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
-- 本地路径：`/mnt/ssdmax/img2threejs`
-- README 副本：[`projects/img2threejs/README.md`](./projects/img2threejs/README.md)
-- 简介：Rebuild the object in a reference image as a code-only, procedural Three.js model.
-
-### `LinearAbiltyCastingThreeJS`
-
-- GitHub：[wxhior/LinearAbiltyCastingThreeJS](https://github.com/wxhior/LinearAbiltyCastingThreeJS)
-- 本地路径：`/mnt/ssdmax/LinearAbiltyCastingThreeJS`
-- README 副本：[`projects/LinearAbiltyCastingThreeJS/README.md`](./projects/LinearAbiltyCastingThreeJS/README.md)
-- 简介：A skillshot VFX sandbox built with Three.js, Vite and hand-written GLSL.
-
-### `deepseek-harness`
-
-- GitHub：[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-- 本地路径：`/mnt/ssdmax/deepseek-harness`
-- README 副本：[`projects/deepseek-harness/README.md`](./projects/deepseek-harness/README.md)
-- 简介：DeepSeek Harness (dsh) is an open-source agent harness developed by DeepSeek AI.
-
-### `CubeSandbox`
-
-- GitHub：[TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
-- 本地路径：`/mnt/ssdmax/CubeSandbox`
-- README 副本：[`projects/CubeSandbox/README.md`](./projects/CubeSandbox/README.md)
-- 简介：Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents
